@@ -5,7 +5,7 @@ header{
 
 header img{
     width:100px;
-    height:100px
+    height:100px;
 }
 
 
@@ -16,26 +16,26 @@ header img{
     background-color:#02B5DC;
     color:navy;
     border-radius:15px;
-    margin:10px
+    margin:10px;
 }
 
 
 body{
     background-color:#60A6CD;
-    font-family:cursive
+    font-family:cursive;
 }
 
 h1{
     color:navy;
     text-align:center;
-    font-size:50px
+    font-size:50px;
 }
 
 
 main img{
     width:725px;
     height:400px;
-    border:9px solid navy
+    border:9px solid navy;
 
 }
 
@@ -53,7 +53,7 @@ footer{
 
 footer p{
     font-size:25px;
-    color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255);
 }
 
 footer img{
